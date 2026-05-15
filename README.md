@@ -1,4 +1,4 @@
-# Real-Time Curved Lane Detection System
+# Real-Time Curved Lane Detection and Viewing System
 This system detects road lanes from video footage and accurately highlights both straight and curved lanes using advanced Computer Vision, Image Processing, and Machine Learning-based smoothing techniques.
 
 It processes each frame in real time, converts the road into a Bird’s Eye View, detects lane pixels using histogram and sliding window techniques, fits curved lane boundaries using polynomial regression, and overlays the detected lane area back onto the original video.
